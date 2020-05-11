@@ -1,30 +1,3 @@
-﻿Trainers Name,Subject ,Rating,Next Class
-Prashant ,Hadoop,4,Y
-Satish,MS,2,N
-Kiran,DS,3,Y
-Sadhana,Java,1,N
-Hargrave,Python,5,Y
-Hill,DS,2,Y
-Onio,Java,3,Y
-Boni,Hadoop,1,N
-Mitchell,MS,2,N
-Chu,DS,3,N
-Bartlett,Hadoop,4,N
-Obinna,MS,5,N
-He,DS,2,Y
-H?,Java,3,Y
-Bearce,Python,1,Y
-Andrews,DS,2,Y
-Kay,MS,3,Y
-Chin,MS,3,Y
-Scott,MS,1,Y
-Goforth,MS,5,Y
-Romeo,MS,2,Y
-Henderson,MS,3,Y
-Muldrow,Java,4,Y
-Hao,Java,5,N
-McDonald,Java,2,N
-Dellucci,Java,3,N
-Gerasimov,Python,1,N
-Mosman,Python,5,N
-Yen,Python,2,N
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2601e96ff9ef958c789f00741d002c411e52be5ceaf85a1762537b6cc67a969
+size 518
